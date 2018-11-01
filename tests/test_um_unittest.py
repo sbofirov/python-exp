@@ -6,7 +6,7 @@ class TestUM(unittest.TestCase):
         pass
 
     def test_numbers_3(self):
-        self.assertEqual(4, 4)
+        self.assertEqual(3, 4)
 
 if __name__ == '__main__':
     unittest.main()
